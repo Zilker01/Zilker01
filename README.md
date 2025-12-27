@@ -6,7 +6,7 @@ I'm currently trying to expand my knowledge about databases and cybersecurity. W
 ### 🛠️ Technologies & Tools
 Python • Java • C • SQL • Git • Linux
 
-###📫 How to reach me: 
+### 📫 How to reach me: 
 Email: zilker01@gmail.com
 Linked: On my profile!
 
